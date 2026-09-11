@@ -2,11 +2,15 @@
 
 > **"The Vanishing Aurora Diamond"** — An autonomous, multi-agent AI investigative pipeline that rigorously analyzes crime scenes, reconstructs timelines, evaluates evidence, profiles suspects, challenges cognitive biases, and synthesizes conclusions with strict evidence citation.
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-ai--agent--31b3.onrender.com-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://ai-agent-31b3.onrender.com/)
+
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Pydantic](https://img.shields.io/badge/Pydantic-v2-E92063?style=flat&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/)
 [![Google Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=flat&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/)
+
+> 🌐 **Live Interactive App:** [**https://ai-agent-31b3.onrender.com/**](https://ai-agent-31b3.onrender.com/)
 
 ---
 

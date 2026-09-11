@@ -2,6 +2,10 @@
 
 A standalone AI investigative dashboard built with **Gradio**, powered by the **Google Gemini Flash API**, and validated with **Pydantic structured outputs**.
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-ai--agent--31b3.onrender.com-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://ai-agent-31b3.onrender.com/)
+
+> 🌐 **Live Demo URL:** [**https://ai-agent-31b3.onrender.com/**](https://ai-agent-31b3.onrender.com/)
+
 ---
 
 ## 🏛️ Case Summary
