@@ -1346,5 +1346,6 @@ def build_app():
 
 if __name__ == "__main__":
     app = build_app()
-    port = int(os.getenv("GRADIO_SERVER_PORT", "7860"))
-    app.launch(server_name="127.0.0.1", server_port=port, css=CUSTOM_CSS)
+    server_name = os.getenv("GRADIO_SERVER_NAME", "0.0.0.0")
+    port = int(os.getenv("PORT", os.getenv("GRADIO_SERVER_PORT", "7860")))
+    app.launch(server_name=server_name, server_port=port, css=CUSTOM_CSS)
